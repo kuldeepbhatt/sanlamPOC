@@ -3,11 +3,11 @@
 This is a Sanlam POC repository which contains a vanilla scenario (Bank Account Withdrawal) solution clean up
 
 # Approach 
-- Looking at the code listed the TODO tasks as below :
+- Looking at the code, first listed the TODO tasks as below :
 - Normalise to SOLID as much as feasible
 - Implement basic exception handling to cover bad request and business exceptions
 - Generalise the static values into shared and segregated constants
-- Implement utility to build queries
+- Implement utility to build queries or any other potential requirements
 - Logger for reporting if applicable
 
 # Probable Extensions 
